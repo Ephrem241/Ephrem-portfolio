@@ -1,3 +1,3 @@
 # Ephrem-Portfolio
 
-[Front-end portfolio](./public/Ephrem.png)
+![Front-end portfolio](./public/Ephrem.png)
